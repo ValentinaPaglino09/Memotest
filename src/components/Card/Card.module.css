@@ -1,0 +1,12 @@
+.card {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.card:hover {
+    cursor: pointer;
+    opacity: 0.6;
+    
+}
+
